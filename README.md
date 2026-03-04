@@ -1,7 +1,7 @@
 # Company Financial Health Scanner
 
 **Programming for Economists II - Final Project**
-**IE University - Bachelor in Economics**
+**IE University**
 
 ## What It Does
 
@@ -52,4 +52,4 @@ This program reads company financial data from a text file, calculates key finan
 
 ## Team Members
 
-[Add your names here]
+Anja Ruzica Cacic Milutinovic, Mariana Roxana Ene and Sergio Diaz Lantaron
