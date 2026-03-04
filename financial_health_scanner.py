@@ -1,6 +1,6 @@
 # ============================================================
 # COMPANY FINANCIAL HEALTH SCANNER
-# Programming for Economists II - Final Project
+# Programming for Economists II - Final Project - Marina, Anja Ruzica and Sergio
 # ============================================================
 # This program reads company financial data from a text file,
 # calculates key financial ratios, assigns a health grade
