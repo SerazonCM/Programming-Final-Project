@@ -1,3 +1,28 @@
+# ============================================================
+# COMPANY FINANCIAL DATASET
+# Used by: Financial Health Scanner (Programming Final Project)
+# Authors: Marina, Anja Ruzica, Sergio
+# ============================================================
+
+# This dataset contains selected global companies from different sectors.
+# The purpose is to test the financial analysis engine under:
+# - High revenue vs low revenue firms
+# - High debt vs low debt firms
+# - Profitable vs loss-making companies
+# - Capital intensive vs tech companies
+
+# Format:
+# company_name,sector,revenue,costs,debt,cash,employees
+# All monetary values are expressed in millions of EUR.
+# Employees represent total global workforce.
+
+# NOTE:
+# - Some values are approximate and used for educational purposes.
+# - The sector column is included for future feature expansion
+#   (e.g., sector-based benchmarking or peer comparison).
+# - Lines starting with # are ignored by the program.
+# ============================================================
+
 # Company Financial Data
 # Format: company_name,sector,revenue,costs,debt,cash,employees
 # Revenue, Costs, Debt, Cash are in millions of EUR
