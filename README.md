@@ -10,7 +10,7 @@ This program reads company financial data from a text file, calculates key finan
 ## Features
 
 1. Leaderboard - Rank all companies by financial health score
-2. Company Scanner - Deep-dive into one company ratios and risk alerts
+2. Company Scanner - Deep-dive into one company's ratios and risk alerts
 3. Head-to-Head - Compare two companies side by side
 4. Sector Analysis - Average health scores grouped by industry
 5. Add Company - Interactively enter new company data with input validation
@@ -45,7 +45,7 @@ This program reads company financial data from a text file, calculates key finan
 - Lists: storing rankings and risk alerts
 - Files: reading data and writing reports
 - Functions: 12 functions, each with docstrings
-- Loops: for loops and while loop for menu
+- Loops: for loops and a while loop for the menu
 - Conditionals: if/elif/else for grading logic
 - Try/Except: file error handling and input validation
 - Strings: .strip(), .split(), concatenation, slicing
