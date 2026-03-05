@@ -47,6 +47,14 @@ This program reads company financial data from a text file, calculates key finan
 - Functions: 12 functions, each with docstrings
 - Loops: for loops and a while loop for the menu
 - Conditionals: if/elif/else for grading logic
+  
+## Data Design Considerations:
+
+- Technology firms typically show higher margins.
+- Banking firms tend to have high debt ratios (normal for the sector).
+- Automotive firms are capital-intensive with thinner margins.
+- Energy firms may show volatile performance.
+- Entertainment firms often reinvest heavily in growth.
 - Try/Except: file error handling and input validation
 - Strings: .strip(), .split(), concatenation, slicing
 
